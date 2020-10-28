@@ -1,0 +1,7 @@
+C:\Users\vitripathi\source\repos\HistagramProblem\HistagramProblem\bin\Debug\HistagramProblem.exe.config
+C:\Users\vitripathi\source\repos\HistagramProblem\HistagramProblem\bin\Debug\HistagramProblem.exe
+C:\Users\vitripathi\source\repos\HistagramProblem\HistagramProblem\bin\Debug\HistagramProblem.pdb
+C:\Users\vitripathi\source\repos\HistagramProblem\HistagramProblem\obj\Debug\HistagramProblem.csprojAssemblyReference.cache
+C:\Users\vitripathi\source\repos\HistagramProblem\HistagramProblem\obj\Debug\HistagramProblem.csproj.CoreCompileInputs.cache
+C:\Users\vitripathi\source\repos\HistagramProblem\HistagramProblem\obj\Debug\HistagramProblem.exe
+C:\Users\vitripathi\source\repos\HistagramProblem\HistagramProblem\obj\Debug\HistagramProblem.pdb
