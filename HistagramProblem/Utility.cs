@@ -48,10 +48,10 @@ namespace HistagramProblem
         public static void ConvertToBucket(List<int> arr, int bucketSize)
         {
             int bucketStart = 0;
-            int BucketLimit = 80;// max elemnt
+            int BucketLimit = arr.Max();
             int currentBucketlimit = 0;
             arr.Sort();
-            while (currentBucketlimit < BucketLimit)
+            while (currentBucketlimit <= BucketLimit)
             {
                 var count = Utility.countInRange(arr, arr.Count(), bucketStart, bucketStart + bucketSize);
                 Console.WriteLine("{0} to {1} :{2} ", (bucketStart == 0) ? 1 : bucketStart, bucketStart + bucketSize, count);
