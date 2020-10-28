@@ -17,7 +17,7 @@ namespace HistagramProblem
             int bucketSize = 0;
             List<string> stringList = new List<string>();
             System.IO.StreamReader file =
-            new System.IO.StreamReader(@"C:\Users\vitripathi\source\repos\HistagramProblem\Histogram.txt");
+            new System.IO.StreamReader(@"..\..\..\Histogram.txt");
             while ((line = file.ReadLine()) != null)
             {
                 stringList.Clear();

@@ -5871,11 +5871,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitripathi\\source\\repos\\HistagramProblem\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\vitripathi\\Desktop\\HistogramProblem\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "projectName": "XUnitTestProject1",
-      "projectPath": "C:\\Users\\vitripathi\\source\\repos\\HistagramProblem\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\vitripathi\\Desktop\\HistogramProblem\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\vitripathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitripathi\\source\\repos\\HistagramProblem\\XUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\vitripathi\\Desktop\\HistogramProblem\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5896,8 +5896,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\vitripathi\\source\\repos\\HistagramProblem\\HistagramProblem\\HistagramProblem.csproj": {
-              "projectPath": "C:\\Users\\vitripathi\\source\\repos\\HistagramProblem\\HistagramProblem\\HistagramProblem.csproj"
+            "C:\\Users\\vitripathi\\Desktop\\HistogramProblem\\HistagramProblem\\HistagramProblem.csproj": {
+              "projectPath": "C:\\Users\\vitripathi\\Desktop\\HistogramProblem\\HistagramProblem\\HistagramProblem.csproj"
             }
           }
         }
